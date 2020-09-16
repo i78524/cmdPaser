@@ -1,0 +1,17 @@
+(0). 作者：陳繹文 YiWen Chen (i78524@gmail.com)
+     日期：2020/07/28
+
+
+
+(1). 本程式為Paser實作，輸入符合規格的字串，對其進行合理的拆解
+
+
+
+(2). 編譯指令
+gcc main.c cmdPaser.c -o helloPASER
+
+
+
+
+
+本文結束
